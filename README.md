@@ -1,10 +1,10 @@
 # RickAndMorty
 
-#### A Flutter app that shows Rick and Morty characters and some interesting information about it
+#### A Flutter app that show Rick and Morty characters and some interesting information about it
 
 ## Features
 
-- Use BLOC architecture
+- Use BLoC architecture
 - Dio for fetch data
 - Contains widget test
 - Use [Rick and Morty API](https://rickandmortyapi.com/)
